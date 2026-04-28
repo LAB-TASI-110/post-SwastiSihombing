@@ -1,0 +1,42 @@
+1. Jadi disini saya akan membuat program pengiriman barang, disini saya menggunakan bahasa java JDK21, pada proram saya sendiri nanti ada source Driver1 dan Model1
+pada program tersebut nanti tersedia fitur Daftar Ongkios kirim Del-Express yang dimana dalam fitur tersebut mencangkup Kode Kota, Nama Kota, Ongkos Kirim/kg, dan Keterangan.
+Selain itu juga terdapat Promo promo menarik khususnya Promo Ongkir Lebaran
+syarat darib promo ini sendiri yaitu 
+1. Total berat pengiriman lebih dari 10kg Promo yang didapatkan yaitu Diskon ongkir sebesar 10%
+2. Pengirimana ke kota luar pulau Promo yang didapatkan yaitu Mendapatkan asuransi gratis
+
+selanjtunya ada juga Daftar Kode Kota yang dimana ini gunanya untuk bisa menghitung total  berapa pembiayaan dikenakan kepada siucok dan sibutet
+Daftar Kode itu sendiri terdiri dari:
+kode MDN Kota Tujuan Medan
+kode BLG Kota Tujuan Balige
+kode JKT Kota Tujuan Jakarta
+kode SBY Kota Tujuan Surabaya
+
+nah jadi ada untuk menghitung total pembayaran itu dilihat dari timbangan berat barang dan estimasi kota
+
+nah jadi keluaran program yang saya harapkan dari program ini yaitu user akan mengisi bagian seperti dibawah ini:
+Kode Kota
+Berat paket
+Kode Kota
+Berat paket
+Kode Kota
+Total Paket 1 2
+
+nah jadi input outputnya itu ialah
+input
+MDN
+5
+JKT
+3
+BLG
+4
+END
+
+output
+ Struk Pembayaran yang terdiri dari: Kota tujuan, Berat paket Butet, Berat paket Ucok, Total berat, Total ongkos kirim, Informasi promo yang diperoleh,
+
+nanti user yang mengisi ini harapannya
+
+buatlah kode program java sederhana untuk mahasiswa yang baru belajar bahasa java semester4
+
+2. masi ada eror pacada class Model1 sehingga masih error pada Driver1

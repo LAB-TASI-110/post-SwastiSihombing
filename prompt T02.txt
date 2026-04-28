@@ -1,0 +1,40 @@
+1. Jadi disini saya akan membuat program pengiriman barang, disini saya menggunakan bahasa java JDK21, pada proram saya sendiri nanti ada source Driver1 dan Model2 
+progaram nya itu iala menentukan stok total hanya untuk kategori barang yang diminta,
+case nya itu sendiri yang dimana dat stok barang disimpan dalam sebuah rak gudang yang tersusun rapi .  adapun pola penyimpanan nya yaitu bagaiamana kelompok barang dipisahkan.
+nah jadi nanti inputan pada programnnya yaitu berupa
+1. Jumlah total data (N)
+2. Deret stok (s1, s2, ..., sN)
+3. Kode kategori barang
+
+nah outputnya itu sendiri yaitu terdapat seperti gambar yang saya terakan 
+
+
+buatlah kode program java sederhana untuk mahasiswa yang baru belajar bahasa java semester4, disini saya menggunakan tool vscode buat la kode program yang berjalan sempurna tanpa ada eror bila perlu tidak usah tampilkan komen pada code
+
+2. kenapa masi merah pada public
+
+3. Jadi disini saya akan membuat program pengiriman barang, disini saya menggunakan bahasa java JDK21, pada proram saya sendiri nanti ada source Driver1 dan Model2 
+progaram nya itu iala menentukan stok total hanya untuk kategori barang yang diminta,
+case nya itu sendiri yang dimana dat stok barang disimpan dalam sebuah rak gudang yang tersusun rapi .  adapun pola penyimpanan nya yaitu bagaiamana kelompok barang dipisahkan.
+nah jadi nanti inputan pada programnnya yaitu berupa
+1. Jumlah total data (N)
+2. Deret stok (s1, s2, ..., sN)
+3. Kode kategori barang
+
+nah outputnya itu sendiri yaitu terdapat seperti gambar yang saya terakan 
+
+
+2. buatlah kode program java sederhana untuk mahasiswa yang baru belajar bahasa java semester4, disini saya menggunakan tool vscode buat la kode program yang berjalan sempurna tanpa ada eror bila perlu tidak usah tampilkan komen pada code
+
+3. Jadi disini saya akan membuat program pengiriman barang, disini saya menggunakan bahasa java JDK21, pada proram saya sendiri nanti ada source Driver2 dan Model2 
+progaram nya itu iala menentukan stok total hanya untuk kategori barang yang diminta,
+case nya itu sendiri yang dimana dat stok barang disimpan dalam sebuah rak gudang yang tersusun rapi .  adapun pola penyimpanan nya yaitu bagaiamana kelompok barang dipisahkan.
+nah jadi nanti inputan pada programnnya yaitu berupa
+1. Jumlah total data (N)
+2. Deret stok (s1, s2, ..., sN)
+3. Kode kategori barang
+
+nah outputnya itu sendiri yaitu terdapat seperti gambar yang saya terakan 
+
+
+buatlah kode program java sederhana untuk mahasiswa yang baru belajar bahasa java semester4, disini saya menggunakan tool vscode buat la kode program yang berjalan sempurna tanpa ada eror bila perlu tidak usah tampilkan komen pada code

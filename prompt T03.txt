@@ -1,0 +1,12 @@
+1. Buatlah sebuah program yang dimana program ini menjalankan sistem operasioanal Kafetaria
+kafetaria ini sendiri merupakan kantin yang dimana menjual snack maupun minuman untuk mahasiswa 
+nah pada program ini Fitur yang tersedia yaitu Daftar Menu (Makanan dan Minuman), Harga Menu, Yang tersedia, Yang sudah habis, Pemesanan ( Daftar pesanan seperti Jenis makanan dan Jumlah makanan maupun minuman serta total dari pemesanan nya
+
+Nah pada program ini sendiri saya menggunakan bahasa Java JDK17 yang dimana saya merupakan mahasiswa semester4 yang baru mempelajari bahasa java jadi berikanlan bahasa java yang sederhana yang baru dipelajari oleh anak sems 4 tools yang saya gunakan vscode
+
+2. Kelas yang tersedia pada program ini ialah Driver3 dan Model3
+
+3. mesikupun menggunakan bahasa yang sederhana sempurnakan la code agar code dapat berjalan sempurna dengan inputan yang diberikan oleh user tanapa ada eror karena ada problem pada Model3 ketika digunakan di Driver3
+
+4. pada model saya tambahkan package model;
+karena jika tidak ditambahkan terjadi eror namun pada Driver1 masi eror pada Model3
